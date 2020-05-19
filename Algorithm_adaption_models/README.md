@@ -1,3 +1,3 @@
-Adapted algorithms implemented by sk_multilabel_learn library:
+Adapted algorithms implemented by sk_multilabel_learn library: http://scikit.ml/
 
-LEMLE idea and paper at: https://arxiv.org/abs/1812.02956
+LNEMLC idea and paper at: https://arxiv.org/abs/1812.02956
