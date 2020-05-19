@@ -1,2 +1,3 @@
 # Extreme_Multiabel_Classification
-Extreme Multi Label Classification Machine Learning project. 
+
+we perform extreme multi-label classification on  EURLex-4K dataset, a collection of documents about European Union Law with 3993 categories. We first applied traditional multi-label algorithms as baseline. We further implemented embedding based models Principal Label Space Transformation (PLST) , and Sparse Local Embeddings for Extreme Multi-label Classification (SLEEC), and innovatively modify existed algorithms for desired property. We finally focus on one of the leading one-vs-all based extreme classifier Parabel. We use label ranking average precision (LRAP) as our evaluation metric to give better rank to the labels associated with each sample. We also record training times to evaluate model efficiency. The result shows that the Parabel model achieves the highest LRAP score with the fastest training time among all algorithms we tried.
