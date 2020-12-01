@@ -38,7 +38,7 @@ among all the algorithms we experimented with.
 ## Contributors
 
 * Man Jin (mj1637@nyu.edu)
-* Florence Denglin Jiang (dj1369@nyu.edu)
+* Florence Denglin Jiang (florence.jiang@nyu.edu)
 * Hong Gong (hg1153@nyu.edu)
 * Jacqueline Yuwei Wang (yw1854@nyu.edu)
 * Yi Xu (yx2090@nyu.edu)
