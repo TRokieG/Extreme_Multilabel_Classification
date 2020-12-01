@@ -34,3 +34,11 @@ We also record training times to evaluate model efficiency.
 ## Conclusion
 The result shows that the Parabel achieves the highest LRAP score as well as the best training time 
 among all the algorithms we experimented with.
+
+## Contributors
+
+* Man Jin (mj1637@nyu.edu)
+* Florence Denglin Jiang (dj1369@nyu.edu)
+* Hong Gong (hg1153@nyu.edu)
+* Jacqueline Yuwei Wang (yw1854@nyu.edu)
+* Yi Xu (yx2090@nyu.edu)
