@@ -14,6 +14,9 @@ a collection of documents about European Union Law with 3993 categories.
 ## Methods
 
 We first applied traditional multi-label algorithms as baseline. 
+There are two traditional methods that we tried:
+1. Problem Transformation (Binary Relevance/Classifier Chain plus Traditional ML algorithms like RF/KNN)
+2. Algorithm Adaption (Adapted KNN, SVM etc.)
 
 We further implemented embedding-based models [Principal Label Space Transformation (PLST)](https://www.csie.ntu.edu.tw/~htlin/paper/doc/plst.pdf) 
 and [Sparse Local Embeddings for Extreme Multi-label Classification (SLEEC)](https://papers.nips.cc/paper/5969-sparse-local-embeddings-for-extreme-multi-label-classification), 
